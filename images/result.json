@@ -1,0 +1,503 @@
+{
+  "images": [
+    {
+      "width": 1000,
+      "height": 1000,
+      "id": 0,
+      "file_name": "images/3/cda53c75-PGTLS002AD.jpg"
+    },
+    {
+      "width": 384,
+      "height": 384,
+      "id": 1,
+      "file_name": "images/3/2e71dabf-enhance-black-oak_384x384.webp"
+    },
+    {
+      "width": 225,
+      "height": 225,
+      "id": 2,
+      "file_name": "images/3/f5fe3565-images4564.jpeg"
+    },
+    {
+      "width": 800,
+      "height": 800,
+      "id": 3,
+      "file_name": "images/3/f98a9f97-Untitled-design-2021-04-13T115418.622.webp"
+    },
+    {
+      "width": 1067,
+      "height": 928,
+      "id": 4,
+      "file_name": "images/3/5c7dd76e-250436438.jpeg"
+    },
+    {
+      "width": 500,
+      "height": 334,
+      "id": 5,
+      "file_name": "images/3/7ed65afd-860B8660-F565-4047-BC62-DCEC648FC7C2.jpg"
+    },
+    {
+      "width": 1000,
+      "height": 750,
+      "id": 6,
+      "file_name": "images/3/ce91034c-BFGT-KORR-WH-00_SGNJET9OCTMX_2048x2048.webp"
+    },
+    {
+      "width": 1500,
+      "height": 1500,
+      "id": 7,
+      "file_name": "images/3/5e714db9-2131.jpeg"
+    },
+    {
+      "width": 1080,
+      "height": 719,
+      "id": 8,
+      "file_name": "images/3/d7bba02a-Desk1_SI44EVFLVIQD_1200x1200.webp"
+    },
+    {
+      "width": 1024,
+      "height": 576,
+      "id": 9,
+      "file_name": "images/3/08287504-Starmore-office-desk-angle_1024x1024.webp"
+    },
+    {
+      "width": 229,
+      "height": 220,
+      "id": 10,
+      "file_name": "images/3/0ac6b70d-images234.jpeg"
+    },
+    {
+      "width": 1024,
+      "height": 673,
+      "id": 11,
+      "file_name": "images/3/9b941e02-Smart-Desk-Grey-acredo.jpg"
+    },
+    {
+      "width": 800,
+      "height": 800,
+      "id": 12,
+      "file_name": "images/3/3cfc817f-Office-Desk-1200.jpg"
+    },
+    {
+      "width": 628,
+      "height": 545,
+      "id": 13,
+      "file_name": "images/3/3fd10a7a-233731284.jpeg"
+    },
+    {
+      "width": 632,
+      "height": 632,
+      "id": 14,
+      "file_name": "images/3/1a10aba8-view.jpeg"
+    },
+    {
+      "width": 218,
+      "height": 231,
+      "id": 15,
+      "file_name": "images/3/ed163057-images.jpeg"
+    },
+    {
+      "width": 304,
+      "height": 166,
+      "id": 16,
+      "file_name": "images/3/35309df9-images5675.jpeg"
+    },
+    {
+      "width": 484,
+      "height": 484,
+      "id": 17,
+      "file_name": "images/3/dc166a63-W2436894_30.jpg"
+    },
+    {
+      "width": 1000,
+      "height": 750,
+      "id": 18,
+      "file_name": "images/3/56e87835-BFGT-KORR-BK-00_SL7ORXK2HSIL_2048x2048.webp"
+    },
+    {
+      "width": 2000,
+      "height": 1200,
+      "id": 19,
+      "file_name": "images/3/37581680-1413109.webp"
+    },
+    {
+      "width": 225,
+      "height": 225,
+      "id": 20,
+      "file_name": "images/3/d29c6604-images45.jpeg"
+    },
+    {
+      "width": 1160,
+      "height": 672,
+      "id": 21,
+      "file_name": "images/3/0f5db8f8-Agile-Winder-Desk-McGreals-11289__462629_Detail_Listing_Standard_DesktopW10.jpg"
+    },
+    {
+      "width": 599,
+      "height": 428,
+      "id": 22,
+      "file_name": "images/3/af84025c-AddMobileto2phspnocb_1c5f2296-90bf-4743-88a0-51b9e176349a_2000x.webp"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "Desk"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 0,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        90,
+        385,
+        842,
+        550
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 463100
+    },
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        5,
+        99,
+        378,
+        206
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 77868
+    },
+    {
+      "id": 2,
+      "image_id": 2,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        9,
+        47,
+        201,
+        153
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 30753
+    },
+    {
+      "id": 3,
+      "image_id": 3,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        125,
+        270,
+        579,
+        311
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 180069
+    },
+    {
+      "id": 4,
+      "image_id": 4,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        8,
+        212,
+        1030,
+        678
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 698340
+    },
+    {
+      "id": 5,
+      "image_id": 5,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        10,
+        52,
+        474,
+        240
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 113760
+    },
+    {
+      "id": 6,
+      "image_id": 6,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        22,
+        255,
+        958,
+        455
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 435890
+    },
+    {
+      "id": 7,
+      "image_id": 7,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        61,
+        546,
+        1416,
+        853
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 1207848
+    },
+    {
+      "id": 8,
+      "image_id": 8,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        224,
+        249,
+        629,
+        322
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 202538
+    },
+    {
+      "id": 9,
+      "image_id": 9,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        49,
+        58,
+        943,
+        484
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 456412
+    },
+    {
+      "id": 10,
+      "image_id": 10,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        4,
+        47,
+        220,
+        131
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 28820
+    },
+    {
+      "id": 11,
+      "image_id": 11,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        8,
+        17,
+        1004,
+        647
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 649588
+    },
+    {
+      "id": 12,
+      "image_id": 12,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        57,
+        264,
+        722,
+        458
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 330676
+    },
+    {
+      "id": 13,
+      "image_id": 13,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        5,
+        37,
+        610,
+        501
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 305610
+    },
+    {
+      "id": 14,
+      "image_id": 14,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        41,
+        142,
+        559,
+        344
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 192296
+    },
+    {
+      "id": 15,
+      "image_id": 15,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        0,
+        62,
+        215,
+        168
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 36120
+    },
+    {
+      "id": 16,
+      "image_id": 16,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        15,
+        0,
+        284,
+        164
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 46576
+    },
+    {
+      "id": 17,
+      "image_id": 17,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        10,
+        98,
+        469,
+        297
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 139293
+    },
+    {
+      "id": 18,
+      "image_id": 18,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        1,
+        219,
+        997,
+        499
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 497503
+    },
+    {
+      "id": 19,
+      "image_id": 19,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        16,
+        128,
+        1984,
+        952
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 1888768
+    },
+    {
+      "id": 20,
+      "image_id": 20,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        29,
+        36,
+        180,
+        159
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 28620
+    },
+    {
+      "id": 21,
+      "image_id": 21,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        105,
+        130,
+        945,
+        529
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 499905
+    },
+    {
+      "id": 22,
+      "image_id": 22,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        151,
+        106,
+        421,
+        223
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 93883
+    }
+  ],
+  "info": {
+    "year": 2022,
+    "version": "1.0",
+    "description": "",
+    "contributor": "Label Studio",
+    "url": "",
+    "date_created": "2022-04-11 04:55:39.196545"
+  }
+}
