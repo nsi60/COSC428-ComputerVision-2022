@@ -21,7 +21,7 @@ def run(dataset_name, image_dir, model_path):
     cfg.MODEL.WEIGHTS = model_path # path to the model we just trained
     predictor = DefaultPredictor(cfg)
 
-    images = [join(image_dir, f) for f in listdir(image_dir) if isfile(join(image_dir, f)) and f.endswith(".png")]
+    images = [join(image_dir, f) for f in listdir(image_dir) if isfile(join(image_dir, f)) and (f.endswith(".webp") or f.endswith(".jpeg") or f.endswith(".jpg"))]
     for image_path in images:
         im = cv2.imread(image_path)
         outputs = predictor(im)
