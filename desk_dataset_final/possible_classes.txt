@@ -1,0 +1,6 @@
+desk
+desk_left
+desk_right
+item_on_desk
+item_under_desk
+drawer
